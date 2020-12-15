@@ -1,2 +1,2 @@
 # visor-doc
-Documentacion Visor Ambiental Jujuy INECOA CONICET UNJU
+Documentacion en FORMATO PDF: Visor Ambiental Jujuy INECOA CONICET UNJU
